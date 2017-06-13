@@ -1,0 +1,52 @@
+[
+    {
+        "group": "14A",
+        "labs": [
+            {
+                "discipline": "informatika",
+                "labs": [
+                    {
+                        "title": "name of lab, example lab #1",
+                        "start": "2017-05-01",
+                        "end": "2017-05-03"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "group": "14B",
+        "labs": [
+            {
+                "discipline": "fizika",
+                "labs": [
+                    {
+                        "title": "name of lab, example lab #1",
+                        "start": "2017-04-01",
+                        "end": "2017-04-03"
+                    },
+                    {
+                        "title": "lab #2",
+                        "start": "2017-04-10",
+                        "end": "2017-04-12"
+                    }
+                ]
+            },
+            {
+                "discipline": "ximiya",
+                "labs": [
+                    {
+                        "title": "name of lab, example lab #1",
+                        "start": "2017-04-01",
+                        "end": "2017-04-03"
+                    },
+                    {
+                        "title": "lab #2",
+                        "start": "2017-04-10",
+                        "end": "2017-04-12"
+                    }
+                ]
+            }
+        ]
+    }
+]

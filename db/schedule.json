@@ -1,0 +1,67 @@
+[
+    {
+        "group": "14a",
+        "days": [
+            {
+                "day": "monday",
+                "schedule": [
+                    {
+                        "discipline": "informatika",
+                        "start": "10:00",
+                        "end": "11:00"
+                    },
+                    {
+                        "discipline": "fizika",
+                        "start": "11:10",
+                        "end": "12:10"
+                    }
+                ]
+            },
+            {
+                "day": "tuesday",
+                "schedule": [
+                    {
+                        "discipline": "matanaliz",
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                ]
+            },
+            {
+                "day": "wednesday",
+                "schedule": [
+                    {
+                        "discipline": "matanaliz",
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                ]
+            },
+            {
+                "day": "thursday",
+                "schedule": [
+                    {
+                        "discipline": "matanaliz",
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                ]
+            },
+            {
+                "day": "friday",
+                "schedule": [
+                    {
+                        "discipline": "matanaliz",
+                        "start": "9:00",
+                        "end": "13:00"
+                    }
+                ]
+            },
+            {
+                "day": "saturday",
+                "schedule": [
+                ]
+            }
+        ]
+    }
+]

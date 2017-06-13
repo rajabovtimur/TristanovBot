@@ -1,0 +1,28 @@
+{
+    "text:welcome": "This is welcome text",
+    "text:menu": "Main menu",
+    "text:lesson:byday": "Lessons by day",
+    "text:lesson:bydate": "Lessons by given date in format YYYY/mm/dd",
+    "text:lesson:lab": "Labs",
+    "text:nolabs": "No labs",
+    "text:no_lessons": "No lessons at this time",
+    "text:back": "Back",
+    "text:help": "This bot for user who wants to ... blah bla bla, fill this help",
+    "text:select_group": "Select your group",
+    "text:select_discipline": "Select discipline",
+
+    "window_byday": "Lessons (day)",
+    "window_bydate": "Lessons (date)",
+    "window_lab": "Labs",
+    "window_help": "Help",
+    "window_menu": "Main menu",
+    "wdwsel_gr": "Select group",
+    "wdwsel_ds": "Select discipline",
+
+    "day_mon": "Monday",
+    "day_tue": "Tuesday",
+    "day_wed": "Wednesday",
+    "day_thu": "Thursday",
+    "day_fri": "Friday",
+    "day_sat": "Saturday"
+}

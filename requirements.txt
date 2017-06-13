@@ -1,0 +1,5 @@
+argparse==1.2.1
+certifi==2017.4.17
+future==0.16.0
+python-telegram-bot==6.0.1
+wsgiref==0.1.2
