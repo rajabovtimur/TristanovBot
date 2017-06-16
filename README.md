@@ -5,7 +5,7 @@
  - schedule.json - файл базы данных расписания
  - userinfo.json - файл базы данных пользовательской информации
 
-lang.json - 
-main.py - 
-requirements.txt - 
-storage.py - 
+# lang.json - 
+# main.py - 
+# requirements.txt - 
+# storage.py - 
