@@ -1,6 +1,4 @@
 # TristanovBot
-TristanovBot
-
 # db - файлы базы данных
  - groups.json - файл базы данных групп
  - labs.json - файл базы данных лаб
