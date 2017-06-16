@@ -5,7 +5,7 @@
  - schedule.json - файл базы данных расписания
  - userinfo.json - файл базы данных пользовательской информации
 
-# lang.json - 
-# main.py - 
-# requirements.txt - 
-# storage.py - 
+# lang.json - языковые настройки
+# main.py - основной код
+# requirements.txt - список зависимостей программы для использования пакетного менеджера Python (pip)
+# storage.py - файл абстракции к доступу данным
